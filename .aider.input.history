@@ -28,3 +28,39 @@
 +```
 +
 +Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 14:44:44.009470
++Create a simple mini app called “Onchain Personality Test”.
++The app should be a short multiple-choice quiz that helps users discover their Web3 personality type.
++
++Flow:
++
++Show a welcome screen: “Onchain Personality Test – Start Quiz”.
++
++Ask 5 simple questions, each with 3 possible answers.
++
++Based on the answers, assign one personality result:
++Visionary, Hacker, Rebel, Creator, Guardian, Explorer.
++
++Show a short description of the result (1–2 sentences).
+
+# 2025-11-20 14:44:44.011211
++Create a simple mini app called “Onchain Personality Test”.
++The app should be a short multiple-choice quiz that helps users discover their Web3 personality type.
++
++Flow:
++
++Show a welcome screen: “Onchain Personality Test – Start Quiz”.
++
++Ask 5 simple questions, each with 3 possible answers.
++
++Based on the answers, assign one personality result:
++Visionary, Hacker, Rebel, Creator, Guardian, Explorer.
++
++Show a short description of the result (1–2 sentences).
+
+# 2025-11-20 14:45:40.574251
++apply changes
+
+# 2025-11-20 14:45:40.574888
++apply changes
